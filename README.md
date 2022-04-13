@@ -2,6 +2,9 @@
 
 My [site](https://steveostudios.com) runs on Eleventy, and there are some things that I do regularly that I thought would be helpful to update via a command-line instead of by hand. Plus I wanted to write a CLI tool.
 
+## Installation
+
+Not quite sure yet. From this git directory I just ran `npm i site -g`. Not sure if I am going to make this a legit package or not.
 ## Books
 
 As I have been reading more, it's fun to update where I am almost daily. Here are some cool tools to do that! Each of these shows prompts to make things faster.
